@@ -1,0 +1,35 @@
+﻿@charset "utf-8";
+
+h2
+{
+	color: #993333;
+	font-weight: bold;
+}
+
+h3
+{
+	color:#900;
+	font-weight: bold;
+	border-top-width: thin;
+	border-bottom-width: thin;
+	border-top-style: dotted;
+	border-bottom-style: dashed;
+	background-color: #FFFFCC;
+	border-top-color: #666600;
+	border-bottom-color: #666600;
+	border-left-color: #33FF00;
+	border-left-width: 16px;
+	border-left-style: solid;
+	text-indent: 10px;
+}
+
+p {
+	font-weight : bold;
+	color: #000099;
+	margin-left: 60px;
+}
+
+.highlight {
+	color: #0000FF;
+	background-color: #FFFF00;
+}
